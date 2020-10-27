@@ -1,2 +1,2 @@
 # CPP_course
-C++ course HUJI
+C++ course Hebrew University of Jerusalem, summer 2020
